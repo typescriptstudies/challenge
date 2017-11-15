@@ -1,0 +1,16 @@
+
+startup.json
+config.json
+
+*.c
+*.h
+*.bat
+
+!nodeserv.bat
+
+
+
+pre.bat
+gitconfig.txt
+
+
